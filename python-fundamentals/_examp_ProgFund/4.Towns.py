@@ -67,10 +67,7 @@ for town in sorted_towns.values():
 
 
 
-for k, v in towns.items():
-    if v.name == 'Quirm':
 
-        print(v.data.keys())  # prints 12
 
 
 '''

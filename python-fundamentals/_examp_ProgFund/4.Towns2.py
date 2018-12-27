@@ -85,6 +85,7 @@ Output
 •	Allowed working time / memory: 100ms / 16MB
 Examples
 Input	Output	Comment
+
 Sto-Lat:8->120
 Ankh-Morpork:3->143
 Sto-Lat:9->80
