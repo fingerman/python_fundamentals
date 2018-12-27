@@ -1,14 +1,3 @@
-'''
-
-Gladius -> Heal -> 200
-Gladius -> Support -> 250
-Gladius -> Shield -> 250
-Pesho -> BattleCry -> 400
-Gladius -> Heal -> 250
-Ave Cesar
-'''
-
-
 class Gladiator:
     def __init__(self, name):
         self.name = name

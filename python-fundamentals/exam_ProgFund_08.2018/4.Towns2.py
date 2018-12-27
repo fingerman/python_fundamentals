@@ -123,6 +123,5 @@ Quirm -> Time: 12 -> Passengers: 258
 The record time for Ankh-Morpork is equal to 5 since the previos one was set to 0 during 
 the ambush. Note that we keep the count of passengers.
 
-
 '''
 
