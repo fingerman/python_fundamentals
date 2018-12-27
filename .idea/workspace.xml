@@ -9,13 +9,11 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/django-web/drf_auth_demo/.idea/workspace.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/django-web/live-blog/README.md" />
       <change beforePath="" afterPath="$PROJECT_DIR$/django-web/live-blog/try.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="$PROJECT_DIR$/django-web/drf_auth_demo/api/articles/urls.py" afterPath="$PROJECT_DIR$/django-web/drf_auth_demo/api/articles/urls.py" />
       <change beforePath="$PROJECT_DIR$/django-web/drf_auth_demo/api/articles/views.py" afterPath="$PROJECT_DIR$/django-web/drf_auth_demo/api/articles/views.py" />
       <change beforePath="$PROJECT_DIR$/django-web/drf_auth_demo/articles/models.py" afterPath="$PROJECT_DIR$/django-web/drf_auth_demo/articles/models.py" />
       <change beforePath="$PROJECT_DIR$/django-web/drf_auth_demo/requirements.txt" afterPath="$PROJECT_DIR$/django-web/drf_auth_demo/requirements.txt" />
-      <change beforePath="$PROJECT_DIR$/python-fundamentals/.idea/workspace.xml" afterPath="$PROJECT_DIR$/python-fundamentals/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -112,8 +110,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <first_editor relative-caret-position="100">
+                <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -744,12 +742,12 @@
       <workItem from="1540656607706" duration="1136000" />
       <workItem from="1540657988041" duration="337000" />
       <workItem from="1540683987336" duration="172000" />
-      <workItem from="1545939579627" duration="1776000" />
+      <workItem from="1545939579627" duration="1857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="438257000" />
+    <option name="totallyTimeSpent" value="438338000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1078,8 +1076,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <first_editor relative-caret-position="100">
+            <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
             <folding />
           </first_editor>
           <second_editor />
