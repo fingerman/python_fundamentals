@@ -9,11 +9,14 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/django-web/drf_auth_demo/.idea/workspace.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/django-web/live-blog/README.md" />
       <change beforePath="" afterPath="$PROJECT_DIR$/django-web/live-blog/try.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="$PROJECT_DIR$/django-web/drf_auth_demo/api/articles/urls.py" afterPath="$PROJECT_DIR$/django-web/drf_auth_demo/api/articles/urls.py" />
       <change beforePath="$PROJECT_DIR$/django-web/drf_auth_demo/api/articles/views.py" afterPath="$PROJECT_DIR$/django-web/drf_auth_demo/api/articles/views.py" />
       <change beforePath="$PROJECT_DIR$/django-web/drf_auth_demo/articles/models.py" afterPath="$PROJECT_DIR$/django-web/drf_auth_demo/articles/models.py" />
       <change beforePath="$PROJECT_DIR$/django-web/drf_auth_demo/requirements.txt" afterPath="$PROJECT_DIR$/django-web/drf_auth_demo/requirements.txt" />
+      <change beforePath="$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018/1.Hogswatch.py" afterPath="$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018/1.Hogswatch.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +32,7 @@
     <SUITE FILE_PATH="coverage/python$list_read_lines_multiple_entry2.coverage" NAME="list_read_lines_multiple_entry2 Coverage Results" MODIFIED="1530360468639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials" />
     <SUITE FILE_PATH="coverage/python$4_.coverage" NAME="4_ Coverage Results" MODIFIED="1538130335153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials/_examp_ProgFund" />
     <SUITE FILE_PATH="coverage/python$3_PersonInfo.coverage" NAME="3_PersonInfo Coverage Results" MODIFIED="1527376234711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials" />
-    <SUITE FILE_PATH="coverage/python$1_Hogswatch.coverage" NAME="1.Hogswatch Coverage Results" MODIFIED="1535351548895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials/_examp_ProgFund" />
+    <SUITE FILE_PATH="coverage/python$1_Hogswatch.coverage" NAME="1.Hogswatch Coverage Results" MODIFIED="1547570319801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018" />
     <SUITE FILE_PATH="coverage/python$1_3_loop_triangle.coverage" NAME="1.3_loop_triangle Coverage Results" MODIFIED="1528127650497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/intro" />
     <SUITE FILE_PATH="coverage/python$dict_sort.coverage" NAME="dict_sort Coverage Results" MODIFIED="1538225674419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials" />
     <SUITE FILE_PATH="coverage/python$9_1_try_class.coverage" NAME="9_1.try_class Coverage Results" MODIFIED="1530006233914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials" />
@@ -51,6 +54,7 @@
     <SUITE FILE_PATH="coverage/python$4_DrawSquare.coverage" NAME="4_DrawSquare Coverage Results" MODIFIED="1527524726940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials" />
     <SUITE FILE_PATH="coverage/python$2_GladiatorInventory.coverage" NAME="2.GladiatorInventory Coverage Results" MODIFIED="1534846485713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials/exam" />
     <SUITE FILE_PATH="coverage/python$3_AncientMemory.coverage" NAME="3.AncientMemory Coverage Results" MODIFIED="1535313112685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials/exam" />
+    <SUITE FILE_PATH="coverage/python$Python_3_6.coverage" NAME="Python 3.6 Coverage Results" MODIFIED="1547427068298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/python$2_6_func_math_power.coverage" NAME="2.6_func_math_power Coverage Results" MODIFIED="1528712529149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials" />
     <SUITE FILE_PATH="coverage/python$7_3_text_filter.coverage" NAME="7.3_text_filter Coverage Results" MODIFIED="1533303592085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials" />
     <SUITE FILE_PATH="coverage/python$5_1_class_distance_points.coverage" NAME="5.1_class_distance_points Coverage Results" MODIFIED="1530016426264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials" />
@@ -64,7 +68,7 @@
     <SUITE FILE_PATH="coverage/python$dict_change.coverage" NAME="dict_change Coverage Results" MODIFIED="1538058036098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials" />
     <SUITE FILE_PATH="coverage/python$list_read_lines_single_entry.coverage" NAME="list_read_lines_single_entry Coverage Results" MODIFIED="1530359807655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials" />
     <SUITE FILE_PATH="coverage/python$3_4_list_smallest_element.coverage" NAME="3.4.list_smallest_element Coverage Results" MODIFIED="1532526803684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials" />
-    <SUITE FILE_PATH="coverage/python$2_Grains.coverage" NAME="2.Grains Coverage Results" MODIFIED="1535360796233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials/_examp_ProgFund" />
+    <SUITE FILE_PATH="coverage/python$2_Grains.coverage" NAME="2.Grains Coverage Results" MODIFIED="1547427100808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018" />
     <SUITE FILE_PATH="coverage/python$exam_3.coverage" NAME="exam_3 Coverage Results" MODIFIED="1530449875341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials" />
     <SUITE FILE_PATH="coverage/python$4_Towns2.coverage" NAME="4.Towns2 Coverage Results" MODIFIED="1538404953277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials/_examp_ProgFund" />
     <SUITE FILE_PATH="coverage/python$list_print_same_row.coverage" NAME="list_print_same_row Coverage Results" MODIFIED="1535269640825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-fundamentials" />
@@ -106,12 +110,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="100">
-                <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              <first_editor relative-caret-position="180">
+                <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -131,6 +135,36 @@
       </file>
       <file leaf-file-name="1.2_PersonInfo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python-fundamentals/1.2_PersonInfo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.Hogswatch.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018/1.Hogswatch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.Grains.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018/2.Grains.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="39" column="4" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="39" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.Towns.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018/4.Towns.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -167,7 +201,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python-fundamentials/list_slice.py" />
         <option value="$PROJECT_DIR$/python-fundamentials/6.9.regex_FishStatistics.py" />
         <option value="$PROJECT_DIR$/python-fundamentials/7.string_try_length.py" />
         <option value="$PROJECT_DIR$/python-fundamentials/7.3_text_filter.py" />
@@ -218,6 +251,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/python-fundamentals/_examp_ProgFund/4.Towns2.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018/1.Hogswatch.py" />
       </list>
     </option>
   </component>
@@ -228,10 +262,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="115" />
-    <option name="width" value="1278" />
-    <option name="height" value="678" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -251,6 +285,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,14 +293,24 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="python-fundamentals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="python-fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="exam_ProgFund_08.2018" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,7 +346,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Python 3.6">
+  <component name="RunManager" selected="Python.1.Hogswatch">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -400,6 +445,44 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="ADDITIONAL_ARGS" value="" />
     </configuration>
+    <configuration name="1.Hogswatch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fundamentals" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018/1.Hogswatch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="2.Grains" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python_fundamentals" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018/2.Grains.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="4.Towns (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -414,25 +497,6 @@
       <module name="python_fundamentals" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-fundamentals/_examp_ProgFund/4.Towns.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="4.Towns" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-fundamentials/_examp_ProgFund" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-fundamentials/_examp_ProgFund/4.Towns.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -490,25 +554,6 @@
       <module name="python_fundamentals" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="dict_sort_multiple_keys" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-fundamentials" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python_fundamentals" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-fundamentials/dict_sort_multiple_keys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -649,19 +694,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.Python 3.6" />
-      <item index="1" class="java.lang.String" itemvalue="Python.4.Towns" />
-      <item index="2" class="java.lang.String" itemvalue="Python.4.Towns2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.dict_sort_multiple_keys" />
-      <item index="4" class="java.lang.String" itemvalue="Python.4.Towns2 (1)" />
-      <item index="5" class="java.lang.String" itemvalue="Python.4.Towns (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.4.Towns2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.4.Towns2 (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.4.Towns (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.2.Grains" />
+      <item index="5" class="java.lang.String" itemvalue="Python.1.Hogswatch" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.4.Towns (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.4.Towns2 (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.4.Towns2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.dict_sort_multiple_keys" />
-        <item index="4" class="java.lang.String" itemvalue="Python.4.Towns" />
+        <item index="0" class="java.lang.String" itemvalue="Python.1.Hogswatch" />
+        <item index="1" class="java.lang.String" itemvalue="Python.2.Grains" />
+        <item index="2" class="java.lang.String" itemvalue="Python.4.Towns (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.4.Towns2 (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.4.Towns2" />
       </list>
     </recent_temporary>
   </component>
@@ -742,12 +787,15 @@
       <workItem from="1540656607706" duration="1136000" />
       <workItem from="1540657988041" duration="337000" />
       <workItem from="1540683987336" duration="172000" />
-      <workItem from="1545939579627" duration="1857000" />
+      <workItem from="1545939579627" duration="2246000" />
+      <workItem from="1547426303474" duration="1786000" />
+      <workItem from="1547505884654" duration="3449000" />
+      <workItem from="1547567875512" duration="2417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="438338000" />
+    <option name="totallyTimeSpent" value="446379000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -770,11 +818,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42269737" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40625" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42269737" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4194079" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24891305" sideWeight="0.4969743" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18381241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -835,9 +883,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python-fundamentals/_examp_ProgFund/4.Towns.py" />
-    <entry file="file://$PROJECT_DIR$/python-fundamentals/_examp_ProgFund/4.Towns.py" />
-    <entry file="file://$PROJECT_DIR$/python-fundamentals/_examp_ProgFund/4.Towns2.py" />
     <entry file="file://$PROJECT_DIR$/python-fundamentals/5.5_class_bank_system.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -1065,10 +1110,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018/2.Grains.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="39" column="4" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="39" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018/4.Towns.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python-fundamentals/exam_ProgFund_08.2018/1.Hogswatch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1076,11 +1137,19 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="100">
-            <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <first_editor relative-caret-position="180">
+            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>

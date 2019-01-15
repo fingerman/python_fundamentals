@@ -1,26 +1,40 @@
 n_homes = int(input())
-n_init_presents = int(input())
-list_presents = []
-for i in range(n_homes):
-    list_presents.append(int(input()))
-n_all_hpresents = sum(list_presents)
+init_presents = int(input())
+presents_left = init_presents
+returns = 0
+more_presents = 0
+current_home = 1
 
+for current_home in range(n_homes):
+    current_home += 1
+    n_presents = int(input())
 
-n_more_presents = n_init_presents /
+    if presents_left >= n_presents:
+        presents_left -= n_presents
+    else:
+        returns += 1
+        presents_needed = int((init_presents / current_home)*(n_homes - current_home) + (n_presents - presents_left))
+        more_presents += presents_needed
+        presents_left += presents_needed
+        presents_left += n_presents
 
-if n_init_presents <= n_all_hpresents:
-    print(n_init_presents - n_all_hpresents)
-
+if returns == 0:
+    print(presents_left)
+else:
+    print(returns)
+    print(more_presents)
 
 
 
 '''
 Problem 1 – Hogswatch
-Here is the problem, the Hogfather can travel to all the homes in one night it’s a wonder right! But somehow he just can’t handle math. He forgot the number of presents he has to give, all that he can remember is the number of homes. You need to help him and save Hogswatch!!!
+Here is the problem, the Hogfather can travel to all the homes in one night it’s a wonder right! 
+But somehow he just can’t handle math. He forgot the number of presents he has to give, all that he can remember is the number of homes. You need to help him and save Hogswatch!!!
 You are given the number of homes N the Hogfather has to visit, on the first line.
 And then the total number of presents he took when leaving the workshop on the second line.
 In each home Hogfather visits he counts the number of socks above the fireplace and gives you that number. If he runs out of presents he has to go back to the workshop for more. 
-The number of presents he has to get is equal to the integer value of initial presents divided (integer division) by homes visited including the current one. Multiplied by the number of remaining homes, plus the number of presents he needs in addition for the current home or in other words:
+The number of presents he has to get is equal to the integer value of initial presents divided (integer division) by homes visited including the current one. 
+Multiplied by the number of remaining homes, plus the number of presents he needs in addition for the current home or in other words:
 ({initialPresents} / {visitedHomes}) * {remainingHomes} + {additionalPresents}
 There are two possible outputs:
 •	If the initial number of presents is enough you print the remaining presents on a single line
@@ -53,8 +67,8 @@ In the first house he left 2 presents, then in the second he left 1 present. Aft
 
 4
 20
-12
-10
+2
+1
 3
 9	
 
