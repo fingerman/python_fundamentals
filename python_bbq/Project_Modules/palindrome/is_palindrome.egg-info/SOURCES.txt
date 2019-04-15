@@ -1,0 +1,6 @@
+palindrome.py
+setup.py
+is_palindrome.egg-info/PKG-INFO
+is_palindrome.egg-info/SOURCES.txt
+is_palindrome.egg-info/dependency_links.txt
+is_palindrome.egg-info/top_level.txt

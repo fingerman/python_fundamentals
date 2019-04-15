@@ -1,40 +1,24 @@
-'''
-
-Ankh-Morpork:ambush->200
-Ankh-Morpork:3->143
-Ankh-Morpork:4->143
-Ankh-Morpork:ambush->143
-Ankh-Morpork:5->17
-Slide rule
-
-Ankh-Morpork -> Time: 5 -> Passengers: 160
-
-'''
-
-
 class Town:
-    def __init__(self, name):
-        self.name = name
-        self.data = {}
+    def __init__(self, name, time, passengers):
+        self.Name = name
+        self.Time = time
+        self.Passengers = passengers
 
-    def add_data(self, time, passengers):
-        if time not in self.data:
-            self.data[time] = passengers
+    def ambush(self, passengers):
+        self.Time = 0
+        self.Passengers = self.Passengers - passengers
 
-    def get_min_time(self):
-        result = min(self.data.items(), key=lambda x: x[0])[0]
-        return result
-
-    def get_total_passengers(self):
-        result = sum(self.data.values())
-        return result
+    def update_time_passengers(self, time, passengers):
+        self.Passengers += passengers
+        if self.Time > time:
+            self.Time = time
+        elif self.Time == 0:
+            self.Time = time
+        else:
+            pass
 
     def print_self(self):
-        print(f"{str(self.name)} -> Time: {str(self.get_min_time())} -> Passengers: {str(self.get_total_passengers())}")
-
-    def ambush_data(self, time, passengers):
-        if time not in self.data:
-            self.data[time] = passengers
+        print(f"{str(self.Name)} -> Time: {str(self.Time)} -> Passengers: {str(self.Passengers)}")
 
 
 towns = {}
@@ -50,22 +34,25 @@ while line != "Slide rule":
     if time_inp != 'ambush':
         time_inp = int(time_inp)
         if name_inp not in towns:
-            towns[name_inp] = Town(name_inp)
-        towns[name_inp].add_data(time_inp, passengers_inp)
+            towns[name_inp] = Town(name_inp, time_inp, passengers_inp)
+        else:
+            towns[name_inp].update_time_passengers(time_inp, passengers_inp)
     else:
-        if name_inp not in towns:
-            towns[name_inp] = Town(name_inp)
-        towns[name_inp].add_data(0, passengers_inp)
+        if name_inp not in towns: # here is the ambush case
+            pass
+        else:
+            towns[name_inp].ambush(passengers_inp)
 
     line = input()
 
-sorted_towns = dict(sorted(
-    towns.items(), key=lambda kvp: (kvp[1].get_min_time(), kvp[0])))
 
-for town in sorted_towns.values():
-    town.print_self()
+sorted_dict = sorted(towns.values(), key=lambda x: (x.Time, x.Name)) # returns a list of objects
 
-
+for row in sorted_dict:
+    if row.Time == 0 or row.Passengers <= 0:
+        pass
+    else:
+        row.print_self()
 
 
 
@@ -98,6 +85,7 @@ Output
 •	Allowed working time / memory: 100ms / 16MB
 Examples
 Input	Output	Comment
+
 Sto-Lat:8->120
 Ankh-Morpork:3->143
 Sto-Lat:9->80
@@ -134,7 +122,6 @@ Quirm -> Time: 12 -> Passengers: 258
 
 The record time for Ankh-Morpork is equal to 5 since the previos one was set to 0 during 
 the ambush. Note that we keep the count of passengers.
-
 
 '''
 

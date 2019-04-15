@@ -1,0 +1,4 @@
+from fibonacci import fibo_list
+
+#print(fibo_n(8))
+print(fibo_list(8))
