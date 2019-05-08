@@ -20,3 +20,6 @@ for item in my_dict:
 print(list(my_dict.values())[0])
 
 print(my_dict.get('a'))
+
+
+print(list(my_dict.keys())[0])

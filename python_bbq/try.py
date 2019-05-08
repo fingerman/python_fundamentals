@@ -1,4 +1,4 @@
-a={1,2}
-b={3,4}
-c = a + b
-print(c)
+weight = 80
+height = 180
+bmi = round(weight/((height/100)**2), 2)
+print(bmi)

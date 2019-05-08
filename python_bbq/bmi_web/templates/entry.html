@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block body %}
+<h1> I am a Heading!</h1>
+<h2>{{ the_title }}</h2>
+
+<form method='POST' action='/search4'>
+<table>
+<p>Use this form to submit a search request:</p>
+<tr><td>Weight (kg):</td><td><input name='weight' type='TEXT' width='60'></td></tr>
+<tr><td>Height (cm):</td><td><input name='height' type='TEXT' width='60'></td></tr>
+</table>
+<p>When you're ready, click this button:</p>
+<p><input value='Do it!' type='SUBMIT'></p>
+</form>
+
+{% endblock %}

@@ -32,6 +32,6 @@ student1 = Student("Max", "Beemer", 22, "102")
 print(student1.__dict__)
 student1.show_age()
 person1 = Person("Hanna", "Arendt", 33)
-print(person1.get_name)
+print(student1.get_name())
 
-
+print(student1)

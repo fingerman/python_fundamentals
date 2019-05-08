@@ -2,104 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3478b43-ca2f-455f-8990-e20a6f0a9645" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python-fundamentals/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python-fundamentals/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/letters_from_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/static/hf.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/templates/entry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Flask/templates/results.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/004_1 typesMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/004_2 static_cal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/005_py_inher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/006_super_multilevel_Inherit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/007_pyMultiInherit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Animal_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modules/auto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modules/auto_private.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Modules/truck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Money.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/locating_target_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_FileHandling/names/9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_matplotlib/plots1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_matplotlib/plots2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj_matplotlib/popularity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_Modules/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_Modules/my_modules/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_Modules/my_modules/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_Modules/my_modules/vsearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_Modules/palindrome/palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_Modules/palindrome/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project_Modules/palindrome_test/test_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/csv_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/datei.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dicts/data_dict.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dicts/dict_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dicts/dict_in_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dicts/func_dict_vocals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/except_try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/func_find_vocals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/func_for_print_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/func_intersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/func_intersection2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/func_random_args.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/func_recursive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/func_turtle_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/func_year_400.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if_bottlesong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/list_chaos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/list_if_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/list_mixed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/list_panic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/liste_dynamic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/lists_all.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/split_comprehensive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime_numbers_list_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scores.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time_sleep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/try1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/try_43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuple/tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv_dict/dict_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv_dict/filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_blut_alcochol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_money_change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_true.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeld_fruits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/computer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1dicts/key_value_get.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1lists/list_slice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1sets/sets_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/db_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/db_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flask/vsearch.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskCredit/web/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlaskCredit/web/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi_web/bmiweb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi_web/static/hf.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi_web/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi_web/templates/entry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi_web/templates/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_work/abfrage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_work/like.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_work/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_work/sortieren_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_work/sqlite_anzeigen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_work/sqlite_erzeugen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_work/t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_work/w3_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_work/where_clause.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enumerate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filter_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/format_geeks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/format_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gehaltsrechner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/map_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reduce_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while_except.py" afterDir="false" />
       <change afterPath="C:/xampp/htdocs/sumA/.idea/libraries/R_User_Library.xml" afterDir="false" />
       <change afterPath="C:/xampp/htdocs/sumA/.idea/misc.xml" afterDir="false" />
       <change afterPath="C:/xampp/htdocs/sumA/.idea/modules.xml" afterDir="false" />
@@ -197,6 +131,8 @@
       <change afterPath="C:/xampp/htdocs/sumA/venv/pyvenv.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/dictionaries/computer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dictionaries/computer.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/other.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/python_fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/python_fundamentals.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python-fundamentals/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-fundamentals/.idea/misc.xml" afterDir="false" />
@@ -204,8 +140,29 @@
       <change beforePath="$PROJECT_DIR$/../python-fundamentals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-fundamentals/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python-fundamentals/dict_change.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-fundamentals/dict_change.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python-fundamentals/exam_ProgFund_08.2018/1.Hogswatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-fundamentals/exam_ProgFund_08.2018/1.Hogswatch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python-fundamentals/exam_ProgFund_08.2018/4.Towns2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-fundamentals/exam_ProgFund_08.2018/4.Towns.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python-fundamentals/exam_ProgFund_10.2018/4.MeStatistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-fundamentals/exam_ProgFund_10.2018/4.MeStatistics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask/letters_from_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask/letters_from_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Person.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Person.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicts/data_dict.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1dicts/data_dict.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicts/dict_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/1dicts/dict_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicts/dict_in_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/1dicts/dict_in_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicts/func_dict_vocals.py" beforeDir="false" afterPath="$PROJECT_DIR$/1dicts/func_dict_vocals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/1lists/list_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/list_chaos.py" beforeDir="false" afterPath="$PROJECT_DIR$/1lists/list_chaos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/list_if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/1lists/list_comprh_if_else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/list_mixed.py" beforeDir="false" afterPath="$PROJECT_DIR$/1lists/list_mixed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/list_panic.py" beforeDir="false" afterPath="$PROJECT_DIR$/1lists/list_panic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/liste_dynamic.py" beforeDir="false" afterPath="$PROJECT_DIR$/1lists/liste_dynamic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/lists_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/1lists/lists_all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/split.py" beforeDir="false" afterPath="$PROJECT_DIR$/1lists/split.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/split_comprehensive.py" beforeDir="false" afterPath="$PROJECT_DIR$/1lists/split_comprehensive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.py" beforeDir="false" afterPath="$PROJECT_DIR$/map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/try.py" beforeDir="false" afterPath="$PROJECT_DIR$/try.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuple/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/1tuple/tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv_dict/dict_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv_dict/filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/1dicts/_dicts_all.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -214,87 +171,166 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python_bbq$path.coverage" NAME="path Coverage Results" MODIFIED="1555097761675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_bbq$try__1_.coverage" NAME="try (1) Coverage Results" MODIFIED="1554966836940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_bbq$filter.coverage" NAME="filter Coverage Results" MODIFIED="1554707985549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_bbq$Iterator.coverage" NAME="Iterator Coverage Results" MODIFIED="1554797171140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/python_bbq$try__1_.coverage" NAME="try (1) Coverage Results" MODIFIED="1556173839296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$_dicts_all.coverage" NAME="_dicts_all Coverage Results" MODIFIED="1556613156700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1dicts" />
+    <SUITE FILE_PATH="coverage/python_bbq$bmiweb.coverage" NAME="bmiweb Coverage Results" MODIFIED="1557314967248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bmi_web" />
+    <SUITE FILE_PATH="coverage/python_bbq$sqlite_anzeigen.coverage" NAME="sqlite_anzeigen Coverage Results" MODIFIED="1556868613077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_work" />
     <SUITE FILE_PATH="coverage/python_bbq$yeld_fruits.coverage" NAME="yeld_fruits Coverage Results" MODIFIED="1554886856934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_bbq$dict_example.coverage" NAME="dict_example Coverage Results" MODIFIED="1554447026334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dicts" />
-    <SUITE FILE_PATH="coverage/python_bbq$try.coverage" NAME="try Coverage Results" MODIFIED="1555320297840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_bbq$try_43.coverage" NAME="try_43 Coverage Results" MODIFIED="1554967548256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$enumerate.coverage" NAME="enumerate Coverage Results" MODIFIED="1556010193870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$dict_example.coverage" NAME="dict_example Coverage Results" MODIFIED="1556526726193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1dicts" />
+    <SUITE FILE_PATH="coverage/python_bbq$try.coverage" NAME="try Coverage Results" MODIFIED="1557313329759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_bbq$try1.coverage" NAME="try1 Coverage Results" MODIFIED="1555311415767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_bbq$map.coverage" NAME="map Coverage Results" MODIFIED="1554709019974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_bbq$Person.coverage" NAME="Person Coverage Results" MODIFIED="1554362777258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/python_bbq$filter_.coverage" NAME="filter_ Coverage Results" MODIFIED="1556002157382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$sqlite_erzeugen.coverage" NAME="sqlite_erzeugen Coverage Results" MODIFIED="1556801977642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_work" />
     <SUITE FILE_PATH="coverage/python_bbq$test.coverage" NAME="test Coverage Results" MODIFIED="1555103662446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/xampp/htdocs/sumA/SummAzure" />
-    <SUITE FILE_PATH="coverage/python_bbq$except_try.coverage" NAME="except_try Coverage Results" MODIFIED="1554881695330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_bbq$main.coverage" NAME="main Coverage Results" MODIFIED="1555112482037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/xampp/htdocs/sumA/SummAzure" />
-    <SUITE FILE_PATH="coverage/python_bbq$app.coverage" NAME="app Coverage Results" MODIFIED="1555099897277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/xampp/htdocs/sumA/SummAzure" />
+    <SUITE FILE_PATH="coverage/python_bbq$key_value_get.coverage" NAME="key_value_get Coverage Results" MODIFIED="1555578244124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1dicts" />
+    <SUITE FILE_PATH="coverage/python_bbq$t__1_.coverage" NAME="t (1) Coverage Results" MODIFIED="1556879537754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_work" />
+    <SUITE FILE_PATH="coverage/python_bbq$abfrage.coverage" NAME="abfrage Coverage Results" MODIFIED="1556879544397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db_work" />
     <SUITE FILE_PATH="coverage/python_bbq$Money.coverage" NAME="Money Coverage Results" MODIFIED="1554470535346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/python_bbq$letters_from_text.coverage" NAME="letters_from_text Coverage Results" MODIFIED="1555099624342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
-    <SUITE FILE_PATH="coverage/python_bbq$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1554717425051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$map_.coverage" NAME="map_ Coverage Results" MODIFIED="1556091150997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1555397167478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlaskCredit" />
     <SUITE FILE_PATH="coverage/python_bbq$Animal.coverage" NAME="Animal Coverage Results" MODIFIED="1554361510065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP/Modules" />
+    <SUITE FILE_PATH="coverage/python_bbq$list_comprh_if_else.coverage" NAME="list_comprh_if_else Coverage Results" MODIFIED="1556631024433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1lists" />
+    <SUITE FILE_PATH="coverage/python_bbq$while_except.coverage" NAME="while_except Coverage Results" MODIFIED="1556112928711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$locating_target_data.coverage" NAME="locating_target_data Coverage Results" MODIFIED="1554557150187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Proj_FileHandling" />
+    <SUITE FILE_PATH="coverage/python_bbq$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1556616858342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1tuple" />
+    <SUITE FILE_PATH="coverage/python_bbq$path.coverage" NAME="path Coverage Results" MODIFIED="1555097761675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$Iterator.coverage" NAME="Iterator Coverage Results" MODIFIED="1554797171140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/python_bbq$filter.coverage" NAME="filter Coverage Results" MODIFIED="1556001558630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$try__2_.coverage" NAME="try (2) Coverage Results" MODIFIED="1556185502070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$reduce_func.coverage" NAME="reduce_func Coverage Results" MODIFIED="1556006112666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$try_43.coverage" NAME="try_43 Coverage Results" MODIFIED="1554967548256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$map.coverage" NAME="map Coverage Results" MODIFIED="1556003421411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$Person.coverage" NAME="Person Coverage Results" MODIFIED="1556789115242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/python_bbq$t.coverage" NAME="t Coverage Results" MODIFIED="1556870379982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$connect_db.coverage" NAME="connect_db Coverage Results" MODIFIED="1557218224864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
+    <SUITE FILE_PATH="coverage/python_bbq$except_try.coverage" NAME="except_try Coverage Results" MODIFIED="1554881695330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$sets_all.coverage" NAME="sets_all Coverage Results" MODIFIED="1556615764157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1sets" />
+    <SUITE FILE_PATH="coverage/python_bbq$db_read.coverage" NAME="db_read Coverage Results" MODIFIED="1557227310990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
+    <SUITE FILE_PATH="coverage/python_bbq$gehaltsrechner.coverage" NAME="gehaltsrechner Coverage Results" MODIFIED="1556545784168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_bbq$main.coverage" NAME="main Coverage Results" MODIFIED="1555112482037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/xampp/htdocs/sumA/SummAzure" />
+    <SUITE FILE_PATH="coverage/python_bbq$dict_ex.coverage" NAME="dict_ex Coverage Results" MODIFIED="1555420548643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv_dict" />
+    <SUITE FILE_PATH="coverage/python_bbq$app.coverage" NAME="app Coverage Results" MODIFIED="1555397423200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlaskCredit/web" />
+    <SUITE FILE_PATH="coverage/python_bbq$letters_from_text.coverage" NAME="letters_from_text Coverage Results" MODIFIED="1557309516450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
+    <SUITE FILE_PATH="coverage/python_bbq$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1556629653442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1lists" />
     <SUITE FILE_PATH="coverage/python_bbq$006_pySuper.coverage" NAME="006_pySuper Coverage Results" MODIFIED="1554370083888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/python_bbq$Animal__1_.coverage" NAME="Animal (1) Coverage Results" MODIFIED="1554380823880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/python_bbq$locating_target_data.coverage" NAME="locating_target_data Coverage Results" MODIFIED="1554557150187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Proj_FileHandling" />
+    <SUITE FILE_PATH="coverage/python_bbq$db_write.coverage" NAME="db_write Coverage Results" MODIFIED="1557227496734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Flask" />
+    <SUITE FILE_PATH="coverage/python_bbq$lists_all.coverage" NAME="lists_all Coverage Results" MODIFIED="1556186082917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1lists" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="firma" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1300226113">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="3" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.17" value="3" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.15" value="8" />
+          <entry key="project.open.time.16" value="5" />
+          <entry key="project.open.time.17" value="4" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="3" />
+          <entry key="css" value="4" />
+          <entry key="html" value="14" />
+          <entry key="log" value="5" />
           <entry key="md" value="1" />
           <entry key="programm" value="1" />
-          <entry key="py" value="82" />
-          <entry key="txt" value="1" />
+          <entry key="py" value="238" />
+          <entry key="sql" value="1" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="3" />
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="14" />
+          <entry key="Log" value="4" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="83" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="239" />
+          <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="53" />
-          <entry key="html" value="11" />
-          <entry key="py" value="7058" />
-          <entry key="txt" value="43" />
+          <entry key="css" value="2" />
+          <entry key="dummy" value="120" />
+          <entry key="html" value="79" />
+          <entry key="py" value="18602" />
+          <entry key="txt" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="11" />
-          <entry key="PLAIN_TEXT" value="96" />
-          <entry key="Python" value="7058" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="79" />
+          <entry key="PLAIN_TEXT" value="181" />
+          <entry key="Python" value="18598" />
+          <entry key="SQL" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bmi_web/bmiweb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flask/letters_from_text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+                <marker date="1557233545190" expanded="true" signature="491:1263" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -313,37 +349,62 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="C:/xampp/htdocs/sumA" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/OOP/Modules/Animal.py" />
-        <option value="$PROJECT_DIR$/OOP/Python.py" />
-        <option value="$PROJECT_DIR$/OOP/006_pySuper.py" />
-        <option value="$PROJECT_DIR$/OOP/Person.py" />
-        <option value="$PROJECT_DIR$/OOP/Animal.py" />
         <option value="$PROJECT_DIR$/OOP/007_pyMultiInherit.py" />
         <option value="$PROJECT_DIR$/OOP/Animal_Inheritance.py" />
         <option value="$PROJECT_DIR$/dicts/dict_example.py" />
         <option value="$PROJECT_DIR$/OOP/Money.py" />
         <option value="$PROJECT_DIR$/Proj_FileHandling/locating_target_data.py" />
         <option value="$PROJECT_DIR$/venv_dict/filter.py" />
-        <option value="$PROJECT_DIR$/filter.py" />
-        <option value="$PROJECT_DIR$/map.py" />
-        <option value="$PROJECT_DIR$/list_comprehension.py" />
         <option value="$PROJECT_DIR$/OOP/Iterator.py" />
         <option value="$PROJECT_DIR$/except_try.py" />
         <option value="$PROJECT_DIR$/yeld_fruits.py" />
         <option value="$PROJECT_DIR$/scores.txt" />
-        <option value="$PROJECT_DIR$/Flask/letters_from_text.py" />
         <option value="C:/xampp/htdocs/sumA/SummAzure/app.py" />
         <option value="C:/xampp/htdocs/sumA/SummAzure/templates/summary.html" />
         <option value="C:/xampp/htdocs/sumA/SummAzure/test.py" />
         <option value="C:/xampp/htdocs/sumA/SummAzure/main.py" />
         <option value="$PROJECT_DIR$/try_43.py" />
         <option value="$PROJECT_DIR$/try1.py" />
+        <option value="$PROJECT_DIR$/FlaskCredit/app.py" />
+        <option value="$PROJECT_DIR$/FlaskCredit/web/app.py" />
+        <option value="$PROJECT_DIR$/FlaskCredit/web/requirements.txt" />
+        <option value="$PROJECT_DIR$/list_comprehension.py" />
+        <option value="$PROJECT_DIR$/1dicts/key_value_get.py" />
+        <option value="$PROJECT_DIR$/filter.py" />
+        <option value="$PROJECT_DIR$/filter_.py" />
+        <option value="$PROJECT_DIR$/map.py" />
+        <option value="$PROJECT_DIR$/map_.py" />
+        <option value="$PROJECT_DIR$/reduce_func.py" />
+        <option value="$PROJECT_DIR$/enumerate.py" />
+        <option value="$PROJECT_DIR$/while_except.py" />
+        <option value="$PROJECT_DIR$/1lists/lists_all.py" />
+        <option value="$PROJECT_DIR$/1dicts/dict_example.py" />
+        <option value="$PROJECT_DIR$/gehaltsrechner.py" />
+        <option value="$PROJECT_DIR$/1sets/sets_all.py" />
+        <option value="$PROJECT_DIR$/1tuple/tuple.py" />
+        <option value="$PROJECT_DIR$/1lists/list_comprehension.py" />
+        <option value="$PROJECT_DIR$/1lists/list_comprh_if_else.py" />
+        <option value="$PROJECT_DIR$/1dicts/_dicts_all.py" />
+        <option value="$PROJECT_DIR$/OOP/Person.py" />
+        <option value="$PROJECT_DIR$/db_work/w3_exercise.py" />
+        <option value="$PROJECT_DIR$/t.py" />
+        <option value="$PROJECT_DIR$/db_work/abfrage.py" />
+        <option value="$PROJECT_DIR$/db_work/sqlite_erzeugen.py" />
+        <option value="$PROJECT_DIR$/db_work/t.py" />
+        <option value="$PROJECT_DIR$/static/hf.css" />
+        <option value="$PROJECT_DIR$/Flask/connect_db.py" />
+        <option value="$PROJECT_DIR$/Flask/db_read.py" />
+        <option value="$PROJECT_DIR$/Flask/db_write.py" />
+        <option value="$PROJECT_DIR$/Flask/letters_from_text.py" />
+        <option value="$PROJECT_DIR$/bmi_web/templates/results.html" />
         <option value="$PROJECT_DIR$/try.py" />
+        <option value="$PROJECT_DIR$/bmi_web/templates/entry.html" />
+        <option value="$PROJECT_DIR$/bmi_web/bmiweb.py" />
       </list>
     </option>
   </component>
@@ -353,11 +414,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="335" />
-    <option name="y" value="226" />
-    <option name="width" value="698" />
-    <option name="height" value="728" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -367,7 +428,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -378,26 +438,39 @@
             <path>
               <item name="python_bbq" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_bbq" type="462c0819:PsiDirectoryNode" />
+              <item name="bmi_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_bbq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_bbq" type="462c0819:PsiDirectoryNode" />
               <item name="Flask" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/xampp/htdocs/sumA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python-fundamentals" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\python\python_bbq\db_work" />
+      <recent name="C:\Projects\python\python_bbq\1lists" />
+      <recent name="C:\Projects\python\python_bbq\FlaskCredit\web" />
       <recent name="C:\Projects\python\python_bbq\OOP" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\python\python_bbq\Flask" />
+      <recent name="C:\Projects\python\python_bbq" />
+      <recent name="C:\Projects\python\python_bbq\db_work" />
       <recent name="C:\Projects\python\python_bbq\OOP" />
     </key>
   </component>
@@ -413,21 +486,46 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.try">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="sumA" />
+  <component name="RunManager" selected="Python.bmiweb">
+    <configuration name="entry.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/python_bbq/bmi_web/templates/entry.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="bmiweb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_bbq" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="C:/xampp/htdocs/sumA/SummAzure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bmi_web" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:/xampp/htdocs/sumA/SummAzure/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bmi_web/bmiweb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_write" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_bbq" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Flask" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask/db_write.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -458,28 +556,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="sumA" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="C:/xampp/htdocs/sumA/SummAzure" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:/xampp/htdocs/sumA/SummAzure/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_bbq" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -502,42 +578,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="try1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_bbq" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.app" />
+      <item itemvalue="Python.bmiweb" />
+      <item itemvalue="Python.db_write" />
       <item itemvalue="Python.letters_from_text" />
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.try" />
-      <item itemvalue="Python.try1" />
+      <item itemvalue="JavaScript Debug.entry.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bmiweb" />
+        <item itemvalue="JavaScript Debug.entry.html" />
         <item itemvalue="Python.try" />
-        <item itemvalue="Python.try1" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.app" />
         <item itemvalue="Python.letters_from_text" />
+        <item itemvalue="Python.db_write" />
       </list>
     </recent_temporary>
   </component>
@@ -564,21 +618,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14447807" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19364598" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.4622951" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.33718246" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5015129" side_tool="true" weight="0.30983606" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.3290993" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.33770493" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.53770494" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49848714" visible="true" weight="0.4918033" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.6206323" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" weight="0.3295082" />
@@ -587,9 +642,34 @@
       <window_info anchor="right" id="SciView" order="2" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="5" weight="0.25567323" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.19213313" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.42786884" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.30983606" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.49848714" visible="true" weight="0.30983606" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.34590164" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.3295082" />
+      <window_info anchor="right" id="R Graphics" order="0" />
+      <window_info anchor="right" id="R Packages" order="1" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" id="Database" order="5" weight="0.25567323" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -604,289 +684,302 @@
           <url>file://$PROJECT_DIR$/Proj_FileHandling/locating_target_data.py</url>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Flask/letters_from_text.py</url>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/while_true.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/time_sleep.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/prime_numbers_list_input.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/prime_numbers.py">
+    <entry file="file://$PROJECT_DIR$/while_blut_alcochol.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while_except.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while_true.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yeld_fruits.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while_money_change.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-fundamentals/5.1_class_distance_points.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-fundamentals/5.2_class_closest_two_points.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-fundamentals/5.8.class_boxes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1298" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-fundamentals/5.5_class_bank_system.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1dicts/dict_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-fundamentals/5.4_class_exercises.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-fundamentals/5.6_class_animals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-fundamentals/exam_Python_08.2018/4.GladiatorArena.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gehaltsrechner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2460">
+          <caret line="123" column="19" lean-forward="true" selection-start-line="123" selection-start-column="19" selection-end-line="123" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1sets/sets_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1lists/list_slice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/if_bottlesong.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/break.py">
+    <entry file="file://$PROJECT_DIR$/1lists/list_chaos.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lists/list_chaos.py">
+    <entry file="file://$PROJECT_DIR$/1lists/split_comprehensive.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lists/list_if_else.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/1lists/list_panic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lists/list_mixed.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/1lists/list_comprh_if_else.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lists/list_panic.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lists/liste_dynamic.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lists/lists_all.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lists/split.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lists/split_comprehensive.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/1lists/list_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP/004_1 typesMethods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="273">
+          <caret line="71" column="44" lean-forward="true" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1tuple/tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP/004_2 static_cal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP/005_py_inher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-720" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/006_super_multilevel_Inherit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/007_pyMultiInherit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-435">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="333">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OOP/Person.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="333">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tuple/tuple.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Proj_FileHandling/names.py" />
-    <entry file="file://$PROJECT_DIR$/OOP/Money.py">
+    <entry file="file://$PROJECT_DIR$/db_work/where_clause.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="340">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Proj_FileHandling/check.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv_dict/filter.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/map.py">
+    <entry file="file://$PROJECT_DIR$/db_work/sqlite_anzeigen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="380">
+          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/filter.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1282051629/_sqlite3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="132">
+          <caret line="161" column="8" selection-start-line="161" selection-start-column="8" selection-end-line="161" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list_comprehension.py">
+    <entry file="file://$PROJECT_DIR$/db_work/t.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="200">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yeld_fruits.py">
+    <entry file="file://$PROJECT_DIR$/1dicts/_dicts_all.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="1080">
+          <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/except_try.py">
+    <entry file="file://$PROJECT_DIR$/db_work/w3_exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_work/abfrage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/Iterator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+    <entry file="file://$PROJECT_DIR$/Flask/_vsearch.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="40">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scores.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project_Fibonacci/programm">
+    <entry file="file://$PROJECT_DIR$/Flask/static/hf.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project_Fibonacci/fibonacci/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/flask/blueprints.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="141" column="41" lean-forward="true" selection-start-line="141" selection-start-column="41" selection-end-line="141" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/PyPDF2/pdf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="1043" column="28" lean-forward="true" selection-start-line="1043" selection-start-column="28" selection-end-line="1043" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/csv_write.py">
+    <entry file="file://$PROJECT_DIR$/Flask/templates/base.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Proj_FileHandling/locating_target_data.py">
+    <entry file="file://$PROJECT_DIR$/db_work/sqlite_erzeugen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="540">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/path.py">
+    <entry file="file://$PROJECT_DIR$/static/hf.css" />
+    <entry file="file://$PROJECT_DIR$/Flask/db_read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" selection-start-line="19" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/db_write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="12" selection-start-line="8" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Anaconda3/Lib/site-packages/flask/globals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bmi_web/static/hf.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flask/vsearch.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bmi_web/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="34" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/xampp/htdocs/sumA/SummAzure/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/xampp/htdocs/sumA/SummAzure/test.py" />
-    <entry file="file://C:/xampp/htdocs/sumA/SummAzure/templates/upload.html">
+    <entry file="file://$PROJECT_DIR$/bmi_web/templates/entry.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="57" column="10" lean-forward="true" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        <state relative-caret-position="200">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/xampp/htdocs/sumA/SummAzure/templates/summary.html">
+    <entry file="file://$PROJECT_DIR$/bmi_web/templates/results.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/xampp/htdocs/sumA/SummAzure/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1282051629/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4167" column="8" selection-start-line="4167" selection-start-column="8" selection-end-line="4167" selection-end-column="8" />
+        <state relative-caret-position="191">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Flask/letters_from_text.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        <state relative-caret-position="120">
+          <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="33" />
           <folding>
-            <element signature="e#0#49#0" expanded="true" />
+            <element signature="e#0#57#0" expanded="true" />
+            <marker date="1557233545190" expanded="true" signature="491:1263" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try.py">
+    <entry file="file://$PROJECT_DIR$/bmi_web/bmiweb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try_43.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OOP/Animal_Inheritance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/xampp/htdocs/sumA/SummAzure/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="866">
-          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
         </state>
       </provider>
     </entry>

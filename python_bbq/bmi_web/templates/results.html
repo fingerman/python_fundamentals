@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+<h2>{{ the_title }}</h2>
+
+<p>You submitted the following data:</p>
+<table>
+<tr><td>Weight:</td><td>{{ the_weight }}</td></tr>
+<tr><td>Height:</td><td>{{ the_height }}</td></tr>
+</table>
+
+<p>When your weight is "{{the_weight }}" in kg and your height is "{{ the_height }}" in m, the following
+results for your BMI Index are returned:</p>
+<h3>{{ the_results }}</h3>
+
+{% endblock %}
