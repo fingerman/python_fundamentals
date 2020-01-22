@@ -2,6 +2,9 @@
   <dictionary name="computer">
     <words>
       <w>dbconfig</w>
+      <w>filenames</w>
+      <w>mindex</w>
+      <w>scaler</w>
     </words>
   </dictionary>
 </component>

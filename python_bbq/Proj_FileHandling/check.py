@@ -11,5 +11,4 @@ for file in os.listdir(target_folder):
         if data[0] == "Max":
             n += 1
     files.close()
-
 print(n)

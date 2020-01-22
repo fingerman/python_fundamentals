@@ -18,14 +18,15 @@ print("---------  Print Keys ----------------")
 for x in d.keys():
     print(x)
 
-
-print("--------------- Print values------------")
 for x in d:
-  print(d[x])
-# alternative:
-for x in d.values():
     print(x)
 
+print("--------------- Print values------------")
+for x in d.values():
+    print(x)
+# alternative:
+for x in d:
+  print(d[x])
 
 
 print("--------Print keys AND/OR values")
@@ -46,21 +47,25 @@ print(type(b))
 print(b)
 
 
-
 print('----  Update/change certain KEY of a dictionary but keep the value')
 d_new = d.copy()
-d_new['Pencho'] = d_new['Anne']
+d_new['Pencho'] = d_new['Anne'] # 'Pench' comes last with the value of the item ('Anne':33)
+print(d_new.items())
 del d_new['Anne']
 print(d_new.items())
 print()
+print(" Alternative: ----------- dict['KEY'] = dict.pop('KEY') ")
+d_new['Bamse'] = d_new.pop('Mandrigon')
+print(d_new)
 
 print('---- popitem() removes the last inserted key-value pair -----')
 d_new.popitem()
 print(d_new)
 
-print(" ----------- dict['KEY'] = dict.pop('KEY') - alternative: ")
-d_new['Bamse'] = d_new.pop('Mandrigon')    # d.pop(KEY) - remove element with KEY and return it !
-print(d_new.items(), "\n")
+
+print(" d.pop(KEY) - remove element with KEY and return it ! ")
+print(d_new.pop('Samuel'))
+
 
 
 print('-----------  Add KEY VALUE pair:')

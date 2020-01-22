@@ -1,8 +1,14 @@
+print("""A set is a collection which is unordered and unindexed. 
+In Python sets are written with curly brackets.
+No repeating elements""")
+
 vowels = {'a', 'e', 'e', 'i', 'o', 'u', 'u'}
 print(vowels)
 
-print("-----  set()")
+print("constructors set(()) vs. set()")
+thisset = set(("apple", "banana", "cherry"))
 vow2 = set('aaaeeeiouuuu')
+print(thisset)
 print(vow2)
 
 print(" --  add() method adds an element to the set if it does not exists")

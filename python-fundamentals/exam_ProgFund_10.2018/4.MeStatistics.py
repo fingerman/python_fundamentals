@@ -47,8 +47,6 @@ Eminem Ringer - 300 views - 1 likes
 '''
 
 
-
-
 class Movie:
     def __init__(self, name, views, likes):
         self.Name = name

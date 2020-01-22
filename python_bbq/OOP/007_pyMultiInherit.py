@@ -29,6 +29,14 @@ class Student:
         return self.studentId
 
 
+class Family:
+    def __init__(self, members):
+        self.members = members
+
+    def get_id(self):
+        return self.members
+
+
 class Resident(Person, Student): # extends both Person and Student class
     def __init__(self, name, age, id):
         Person.__init__(self, name, age)
@@ -37,5 +45,8 @@ class Resident(Person, Student): # extends both Person and Student class
 
 # Create an object of the subclass
 resident1 = Resident('John', 30, '102')
-resident1.show_name() # Methode der Klasse Person
-print(resident1.get_id()) # Methode der Klasse Student
+resident1.show_name()                   # Methode der Klasse Person
+print(resident1.get_id())               # Methode der Klasse Student
+
+
+print(issubclass(Resident, Person))

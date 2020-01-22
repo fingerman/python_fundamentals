@@ -1,9 +1,11 @@
 from flask import Flask, render_template, request
+from pprint import pprint
 
 app = Flask(__name__)
 
 
 @app.route('/')
+@app.route('/entry')
 def show_entry():
     return render_template('entry.html', the_title='welcome to bmi-online' )
 
@@ -20,7 +22,7 @@ def log_request(req: 'flask_request', res: str) -> None:
     conn = mysql.connector.connect(**dbconfig)
     cursor = conn.cursor()
     _SQL = """insert into log
-              (WEIGHT, HEIGHT, IP, BROWSER_STRING, BMI)
+              (weight, height, ip, browser_string, bmi)
               values
               (%s, %s, %s, %s, %s)"""
     cursor.execute(_SQL, (req.form['weight'],
@@ -29,6 +31,8 @@ def log_request(req: 'flask_request', res: str) -> None:
                           req.user_agent.browser,
                           res, )
                    )
+    pprint(vars(cursor))
+
     conn.commit()
     cursor.close()
     conn.close()

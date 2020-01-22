@@ -5,11 +5,12 @@ print(d.items(), "\n")
 
 print('Update/change certain KEY of a dictionary')
 d_new = d
-d_new['Pencho'] = d_new['Anne']
+d_new['Pencho'] = d_new['Anne']  # add Pencho at the end with the value of Anne
+print(d_new.items())
 del d_new['Anne']
 print(d_new.items())
-# alternative:
-d_new['Bamse'] = d_new.pop('Pierre')    # d.pop(KEY) - remove element with KEY and return it !
+print("alternative:")
+d_new['Bamse'] = d_new.pop('Pierre')    # add Bamse at the end with the value of Pierre, which will be removed
 print(d_new.items(), "\n")
 
 print('Add KEY VALUE pair:')
@@ -27,7 +28,6 @@ print(d1.items(), "\n")
 
 
 
-for row in d.items()
 
 
 

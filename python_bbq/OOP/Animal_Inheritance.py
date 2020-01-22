@@ -4,9 +4,6 @@ class Animal:
         self.legs = int(legs)
         self.colour = colour
 
-    def give_properties(self):
-        return self.race + ', ' + str(self.legs) + ', ' + self.colour
-
 
 class Cat(Animal):
     def __init__(self, race, legs, colour, sound):
@@ -24,19 +21,18 @@ class Turtle(Animal):
         super(Animal)
 
 
-
-
-
-
-
 # something = Animal("General", 4, "all_colours")
 # print(something.give_properties())
 # print()
-# persian_cat = Cat("Persian", 4, "brown", "Miau")
-# print(persian_cat.give_properties())
+persian_cat = Cat("Persian", 4, "brown", "Miau")
+print(persian_cat.__dict__)
 # print()
 # pitbull = Dog("Pitbull Terrier", 4, "black-white", "short")
 # print(pitbull.__dict__)
 
 turtle = Turtle("Sethose", 150, "standard colors")
-print(turtle.give_properties())
+print(turtle.__dict__)
+print(turtle.__class__.__name__)
+print(turtle.__class__.__bases__)
+
+print(hasattr(turtle, 'race'))

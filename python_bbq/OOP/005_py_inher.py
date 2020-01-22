@@ -24,6 +24,9 @@ class Person:
     def show_age(self):
         print(self.age)
 
+    def get_id(self):  # will be shadowed in the subclass
+        return self.age
+
     #Line: 25, end of superclass definition
 
 #definition of subclass starts here
@@ -36,14 +39,12 @@ class Student(Person):
 
     def get_id(self):
         return self.studentId  #returns the value of student id
+
 #end of subclass definition
 
 
 # Create an object of the superclass
-#person1 = Person("Richard", 23)
-#call member methods of the objects
-#person1.show_age()
-# Create an object of the subclass
+
 student1 = Student("Max", 22, "102")
 print(student1.get_id())
 student1.show_name() # Methode aus Superklasse

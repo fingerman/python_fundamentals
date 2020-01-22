@@ -1,0 +1,15 @@
+import requests
+from bs4 import BeautifulSoup
+
+r = requests.get('https://webscraper.io/test-sites/tables')
+soup = BeautifulSoup(r.text, features='html.parser')
+
+#print(soup.prettify())
+
+print("just the first table")
+table_1 = soup.find('table')
+print(table_1)
+
+rows = soup.find_all('tr')
+print(rows[0].text)
+print(rows[1].text)

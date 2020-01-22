@@ -16,7 +16,7 @@ for current_home in range(n_homes):
         presents_needed = int((init_presents / current_home)*(n_homes - current_home) + (n_presents - presents_left))
         more_presents += presents_needed
         presents_left += presents_needed
-        presents_left += n_presents
+        presents_left -= n_presents
 
 if returns == 0:
     print(presents_left)
